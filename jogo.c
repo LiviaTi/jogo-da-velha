@@ -65,7 +65,7 @@ void jogar() {
             tabuleiro[linha][coluna] = jogadorAtual;
             break;
         } else {
-            printf("❌ Jogada inválida. Tente novamente.\n");
+            printf("❌ Jogada invalida. Tente novamente.\n");
         }
     }
 }
